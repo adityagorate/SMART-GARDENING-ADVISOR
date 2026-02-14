@@ -52,3 +52,42 @@ Smart-Gardening-Advisor/
 ├── app.py                                   # Streamlit application
 ├── requirements.txt
 └── README.md
+
+---
+
+🚀 Quick Start
+
+1. Clone the repository
+
+Bashgit clone https://github.com/adityagorate/Smart-Gardening-Advisor.git
+
+cd Smart-Gardening-Advisor
+
+2. Install dependencies
+
+Bashpip install -r requirements.txt
+
+3. Download the dataset
+
+Download from:
+
+https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+
+Place the file here:
+
+data/Crop_recommendation.csv
+
+4. Train the model (run once)
+
+Bashpython train_crop_model.py
+
+You should see ~98–99% accuracy.
+
+5. Launch the app
+
+Bashstreamlit run app.py
+
+Open http://localhost:8501 in your browser.
+
+---
+📊 Model Performance
