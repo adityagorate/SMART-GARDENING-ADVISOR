@@ -40,7 +40,7 @@ It uses a trained **Random Forest** classifier (achieving ~98–99% accuracy) an
 ---
 
 ## Project Structure
-
+'''text
 Smart-Gardening-Advisor/
 ├── data/
 │   └── Crop_recommendation.csv               # Kaggle dataset
