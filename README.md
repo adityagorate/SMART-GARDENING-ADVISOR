@@ -92,7 +92,19 @@ Open http://localhost:8501 in your browser.
 ---
 ## 📊 Model Performance
 
-Model,Accuracy,Notes
-Random Forest,~0.99,Best balance of speed & accuracy
-(others tested),0.96–0.98,"Decision Tree, XGBoost, SVM"
+Model            Accuracy     Notes
+
+Random Forest      ~0.99      Best balance of speed & accuracy
+
+(others tested)  0.96–0.98    "Decision Tree, XGBoost, SVM"
+
 ---
+
+## ⚙️ How It Works
+
+Crop Prediction
+→ Random Forest model trained on 7 input features
+→ Outputs top crop + confidence + top-3 list
+Fertilizer Suggestion
+→ Rule-based system using approximate ideal NPK & pH ranges per crop
+→ Compares user input vs. crop requirements → suggests additions
