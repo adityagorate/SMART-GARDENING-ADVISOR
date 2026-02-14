@@ -55,7 +55,7 @@ Smart-Gardening-Advisor/
 
 ---
 
-🚀 Quick Start
+## 🚀 Quick Start
 
 1. Clone the repository
 
@@ -90,4 +90,8 @@ Bashstreamlit run app.py
 Open http://localhost:8501 in your browser.
 
 ---
-📊 Model Performance
+## 📊 Model Performance
+
+[table.csv](https://github.com/user-attachments/files/25314902/table.csv)
+
+---
