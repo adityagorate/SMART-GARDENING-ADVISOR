@@ -91,7 +91,7 @@ Open http://localhost:8501 in your browser.
 
 ---
 ## 📊 Model Performance
-
+```text
 Model            Accuracy     Notes
 
 Random Forest      ~0.99      Best balance of speed & accuracy
@@ -99,6 +99,7 @@ Random Forest      ~0.99      Best balance of speed & accuracy
 (others tested)  0.96–0.98    "Decision Tree, XGBoost, SVM"
 
 ---
+```
 
 ## ⚙️ How It Works
 
