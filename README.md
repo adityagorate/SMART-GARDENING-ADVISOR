@@ -104,8 +104,13 @@ Random Forest      ~0.99      Best balance of speed & accuracy
 ## ⚙️ How It Works
 
 Crop Prediction
+
 → Random Forest model trained on 7 input features
+
 → Outputs top crop + confidence + top-3 list
+
 Fertilizer Suggestion
+
 → Rule-based system using approximate ideal NPK & pH ranges per crop
+
 → Compares user input vs. crop requirements → suggests additions
