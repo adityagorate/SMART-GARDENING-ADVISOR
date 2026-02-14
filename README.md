@@ -23,7 +23,9 @@ It uses a trained **Random Forest** classifier (achieving ~98–99% accuracy) an
 
 ## Demo Screenshots
 
-*(Add 2–4 screenshots here later – e.g. input screen, result with top crops, fertilizer advice)*
+<img width="1355" height="588" alt="Image" src="https://github.com/user-attachments/assets/386dc76b-af27-43ad-8b48-2f4d36261967" />
+
+<img width="1330" height="553" alt="Image" src="https://github.com/user-attachments/assets/c44a1a18-b47c-4070-bbf8-6178b86c63ef" />
 
 ---
 
