@@ -19,9 +19,13 @@ It uses a trained **Random Forest** classifier (achieving ~98–99% accuracy) an
 - Easy to run locally — no complex setup required
 - Pure Python implementation (no Jupyter notebooks needed in final version)
 
+---
+
 ## Demo Screenshots
 
 *(Add 2–4 screenshots here later – e.g. input screen, result with top crops, fertilizer advice)*
+
+---
 
 ## Tech Stack
 
@@ -30,6 +34,8 @@ It uses a trained **Random Forest** classifier (achieving ~98–99% accuracy) an
 - **Web App**: Streamlit
 - **Data handling**: pandas, numpy
 - **Dataset**: Crop Recommendation Dataset (~22 crops, 2200 samples)
+
+---
 
 ## Project Structure
 
