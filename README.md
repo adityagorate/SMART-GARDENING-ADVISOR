@@ -40,7 +40,8 @@ It uses a trained **Random Forest** classifier (achieving ~98–99% accuracy) an
 ---
 
 ## Project Structure
-'''text
+
+```text
 Smart-Gardening-Advisor/
 ├── data/
 │   └── Crop_recommendation.csv               # Kaggle dataset
@@ -51,7 +52,7 @@ Smart-Gardening-Advisor/
 ├── app.py                                   # Streamlit application
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🚀 Quick Start
