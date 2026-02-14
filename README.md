@@ -91,6 +91,8 @@ Open http://localhost:8501 in your browser.
 
 ---
 ## 📊 Model Performance
-[table.csv](https://github.com/user-attachments/files/25314958/table.csv)
 
+Model,Accuracy,Notes
+Random Forest,~0.99,Best balance of speed & accuracy
+(others tested),0.96–0.98,"Decision Tree, XGBoost, SVM"
 ---
